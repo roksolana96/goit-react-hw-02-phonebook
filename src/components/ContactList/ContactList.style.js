@@ -20,13 +20,11 @@ cursor: pointer;
 `;
 
 export const ContactName = styled.li`
-list-style-type: none;
+list-style-type: disclosure-closed;
 // display: flex;
 margin-left: 15px;
 align-items: center;
 padding: 5px 15px;
-// background-color: rgb(250, 250, 250);
 border-radius: 5px;
-// box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 10px 5px inset;
-  }
+
 `;
